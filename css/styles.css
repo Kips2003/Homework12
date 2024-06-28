@@ -193,8 +193,7 @@ main{
     margin: 14px 0 75px 0;
 }
 .button1{
-    max-width: 246px;
-    width: 100%;
+    width: 300px;
     height: 66px;
     border: none;
     border-radius: 15px;
@@ -208,8 +207,7 @@ main{
     cursor: pointer;
 }
 .button2{
-    max-width: 208px;
-    width: 100%;
+    width: 300px;
     height: 66px;
     border: none;
     border-radius: 15px;
