@@ -5,6 +5,13 @@
 * Browsers: last 4 version
 */
 
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.4.14,
+* Autoprefixer: v10.4.7
+* Browsers: last 4 version
+*/
+
 html body{
     width: 100%;
 }
@@ -128,8 +135,8 @@ main{
             column-gap: 24px;
 }
 .section-one-photo{
-    background:-webkit-gradient(linear, right top, left top, color-stop(11.13%, #000000), to(rgba(0, 0, 0, 0))), url(../images/130b10739ac4818fa48bbb46c0a1c8cd.jpeg);
     background:-o-linear-gradient(right, #000000 11.13%, rgba(0, 0, 0, 0) 100%), url(../images/130b10739ac4818fa48bbb46c0a1c8cd.jpeg);
+    background:-webkit-gradient(linear, right top, left top, color-stop(11.13%, #000000), to(rgba(0, 0, 0, 0))), url(../images/130b10739ac4818fa48bbb46c0a1c8cd.jpeg);
     background:linear-gradient(270deg, #000000 11.13%, rgba(0, 0, 0, 0) 100%), url(../images/130b10739ac4818fa48bbb46c0a1c8cd.jpeg);
     width: 100%;
     height: 936px;
@@ -345,8 +352,8 @@ main{
     color: #FFF;
 }
 .sec-two-photo1{
-    background-image:-webkit-gradient(linear, left top, left bottom, color-stop(50.08%, rgba(0, 0, 0, 0)), to(#000000)), url(../images/donny-jiang-42gFAgdIUC8-unsplash\ 1.jpg);
     background-image:-o-linear-gradient(top, rgba(0, 0, 0, 0) 50.08%, #000000 100%), url(../images/donny-jiang-42gFAgdIUC8-unsplash\ 1.jpg);
+    background-image:-webkit-gradient(linear, left top, left bottom, color-stop(50.08%, rgba(0, 0, 0, 0)), to(#000000)), url(../images/donny-jiang-42gFAgdIUC8-unsplash\ 1.jpg);
     background-image:linear-gradient(180deg, rgba(0, 0, 0, 0) 50.08%, #000000 100%), url(../images/donny-jiang-42gFAgdIUC8-unsplash\ 1.jpg);
     width: 100%;
     background-repeat: no-repeat;
@@ -354,8 +361,8 @@ main{
     background-position: center;
 }
 .sec-two-photo2{
-    background-image:-webkit-gradient(linear, left top, left bottom, color-stop(50.08%, rgba(0, 0, 0, 0)), to(#000000)), url(../images/daniele-buso-73AF6JIEBl8-unsplash\ 1.jpg);
     background-image:-o-linear-gradient(top, rgba(0, 0, 0, 0) 50.08%, #000000 100%), url(../images/daniele-buso-73AF6JIEBl8-unsplash\ 1.jpg);
+    background-image:-webkit-gradient(linear, left top, left bottom, color-stop(50.08%, rgba(0, 0, 0, 0)), to(#000000)), url(../images/daniele-buso-73AF6JIEBl8-unsplash\ 1.jpg);
     background-image:linear-gradient(180deg, rgba(0, 0, 0, 0) 50.08%, #000000 100%), url(../images/daniele-buso-73AF6JIEBl8-unsplash\ 1.jpg);
     width: 100%;
     background-repeat: no-repeat;
@@ -363,8 +370,8 @@ main{
     background-position: center;
 }
 .sec-two-photo3{
-    background-image:-webkit-gradient(linear, left top, left bottom, color-stop(50.08%, rgba(0, 0, 0, 0)), to(#000000)), url(../images/jack-b-jQByZkbC5Q4-unsplash\ 1.jpg);
     background-image:-o-linear-gradient(top, rgba(0, 0, 0, 0) 50.08%, #000000 100%), url(../images/jack-b-jQByZkbC5Q4-unsplash\ 1.jpg);
+    background-image:-webkit-gradient(linear, left top, left bottom, color-stop(50.08%, rgba(0, 0, 0, 0)), to(#000000)), url(../images/jack-b-jQByZkbC5Q4-unsplash\ 1.jpg);
     background-image:linear-gradient(180deg, rgba(0, 0, 0, 0) 50.08%, #000000 100%), url(../images/jack-b-jQByZkbC5Q4-unsplash\ 1.jpg);
     width: 100%;
     background-repeat: no-repeat;
